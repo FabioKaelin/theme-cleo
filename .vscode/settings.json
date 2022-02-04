@@ -21,15 +21,18 @@
         "statusBar.debuggingBackground": "#001126",
         "focusBorder": "#bbdaff",
         "errorForeground": "#a92049",
+        "banner.background": "#071d36",
+        "menu.background": "#071d36",
+
         "input.background": "#001733",
         "dropdown.background": "#001733",
         "activityBar.inactiveForeground": "#605fad",
         "activityBarBadge.background": "#00ff00",
         "activityBarBadge.foreground": "#0011ff",
         "activityBar.activeBackground": "#020088",
-        "activityBar.background": "#212241",
+        "activityBar.background": "#333333",
         "activityBar.foreground": "#3b90ff",
-        "editor.background": "#071d36",
+        "editor.background": "#1e1e20",
         "editor.foreground": "#b6dde4",
 
         "terminal.ansiBlack": "#111111",
@@ -40,15 +43,18 @@
         "terminal.ansiMagenta": "#BC3FBC",
         "terminal.ansiCyan": "#11A8CD",
         "terminal.ansiWhite": "#cccccc",
-        "terminal.foreground": "#b6dde4"
-//         // "terminal.ansiBrightBlack": "#333333",
-//         // "terminal.ansiBrightRed": "#ff7882",
-//         // "terminal.ansiBrightGreen": "#b8f171",
-//         // "terminal.ansiBrightYellow": "#ffe580",
-//         // "terminal.ansiBrightBlue": "#80baff",
-//         // "terminal.ansiBrightMagenta": "#d778ff",
-//         // "terminal.ansiBrightCyan": "#78ffff",
-//         // "terminal.ansiBrightWhite": "#ffffff"
+        "terminal.foreground": "#b6dde4",
+        "terminal.background": "#071d36",
+        "terminalCursor.background": "#b6dde4",
+        "terminalCursor.foreground": "#5963e9",
+        "terminal.ansiBrightBlack": "#333333",
+        "terminal.ansiBrightRed": "#ff7882",
+        "terminal.ansiBrightGreen": "#b8f171",
+        "terminal.ansiBrightYellow": "#ffe580",
+        "terminal.ansiBrightBlue": "#80baff",
+        "terminal.ansiBrightMagenta": "#d778ff",
+        "terminal.ansiBrightCyan": "#78ffff",
+        "terminal.ansiBrightWhite": "#ffffff"
 
     }
 }
