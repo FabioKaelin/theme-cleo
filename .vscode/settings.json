@@ -1,0 +1,54 @@
+{
+    "html.format.indentInnerHtml": true,
+    "editor.detectIndentation": false,
+    "html.format.maxPreserveNewLines": 2,
+    "workbench.colorCustomizations": {
+        // "titleBar.activeBackground": "#161616",
+        // "titleBar.inactiveBackground": "#000000",
+        // "titleBar.activeForeground": "#3b90ff",
+        // "titleBar.inactiveForeground": "#1900ff",
+        "statusBar.background": "#020088",
+        "statusBarItem.hoverBackground": "#0400ff",
+        "statusBar.foreground": "#e7e7e7",
+        "editorLineNumber.foreground": "#4144ff",
+        "editorLineNumber.activeForeground": "#00ff2a",
+        "editor.selectionBackground": "#3c84b483",
+        "editor.inactiveSelectionBackground": "#29648b83",
+
+
+
+        "statusBar.noFolderBackground": "#001126",
+        "statusBar.debuggingBackground": "#001126",
+        "focusBorder": "#bbdaff",
+        "errorForeground": "#a92049",
+        "input.background": "#001733",
+        "dropdown.background": "#001733",
+        "activityBar.inactiveForeground": "#605fad",
+        "activityBarBadge.background": "#00ff00",
+        "activityBarBadge.foreground": "#0011ff",
+        "activityBar.activeBackground": "#020088",
+        "activityBar.background": "#212241",
+        "activityBar.foreground": "#3b90ff",
+        "editor.background": "#071d36",
+        "editor.foreground": "#b6dde4",
+
+        "terminal.ansiBlack": "#111111",
+        "terminal.ansiRed": "#e42c39",
+        "terminal.ansiGreen": "#0CBA78",
+        "terminal.ansiYellow": "#E5E510",
+        "terminal.ansiBlue": "#0073ff",
+        "terminal.ansiMagenta": "#BC3FBC",
+        "terminal.ansiCyan": "#11A8CD",
+        "terminal.ansiWhite": "#cccccc",
+        "terminal.foreground": "#b6dde4"
+//         // "terminal.ansiBrightBlack": "#333333",
+//         // "terminal.ansiBrightRed": "#ff7882",
+//         // "terminal.ansiBrightGreen": "#b8f171",
+//         // "terminal.ansiBrightYellow": "#ffe580",
+//         // "terminal.ansiBrightBlue": "#80baff",
+//         // "terminal.ansiBrightMagenta": "#d778ff",
+//         // "terminal.ansiBrightCyan": "#78ffff",
+//         // "terminal.ansiBrightWhite": "#ffffff"
+
+    }
+}
