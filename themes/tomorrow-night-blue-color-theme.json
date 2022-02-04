@@ -58,12 +58,12 @@
         "terminal.ansiBrightWhite": "#ffffff"
     },
     "tokenColors": [
-        {
-            "settings": {
-                "background": "#002451",
-                "foreground": "#FFFFFF"
-            }
-        },
+        // {
+        //     "settings": {
+        //         "background": "#002451",
+        //         "foreground": "#FFFFFF"
+        //     }
+        // },
         {
             "scope": [
                 "meta.embedded",
