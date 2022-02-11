@@ -77,10 +77,20 @@
 		{
 			"name": "Test",
 			"scope": [
-				""
+				"entity.name.namespace",
 			],
 			"settings": {
-				"foreground": "#5ddb5d",//9CDCFE
+				"foreground": "#ff0000",
+			}
+		},
+
+		{
+			"name": "Operator",
+			"scope": [
+				"keyword.operator"
+			],
+			"settings": {
+				"foreground": "#D4D4D4",
 			}
 		},
 
@@ -91,7 +101,7 @@
 
 			],
 			"settings": {
-				"foreground": "#5ddb5d",//9CDCFE
+				"foreground": "#8ccc8c",
 			}
 		},
 
@@ -102,7 +112,7 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#DCDCAA",//9CDCFE
+				"foreground": "#DCDCAA",
 			}
 		},
 		{
@@ -111,14 +121,15 @@
 				"support.type",
 			],
 			"settings": {
-				"foreground": "#9CDCFE",//9CDCFE
+				"foreground": "#ff0000",//9CDCFE
 			}
 		},
 		{
 			"name": "Types declaration and references",
 			"scope": [
-				"support.class",
+				"support.type",
 				"meta.return-type",
+				"support.class",
 				"entity.name.type",
 				"entity.name.namespace",
 				"entity.other.attribute",
@@ -186,13 +197,32 @@
 			"name": "Variable and parameter name",
 			"scope": [
 				"variable",
-				"meta.definition.variable.name",
 				"support.variable",
 				"entity.name.variable",
+				"meta.definition.variable.name",
 				"constant.other.placeholder",
 			],
 			"settings": {
 				"foreground": "#9CDCFE"
+			}
+		},
+
+		{
+			"scope": "meta.diff.header",
+			"settings": {
+				"foreground": "#569cd6"
+			}
+		},
+		{
+			"scope": "storage",
+			"settings": {
+				"foreground": "#569cd6"
+			}
+		},
+		{
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#569cd6"
 			}
 		},
 		{
@@ -321,11 +351,27 @@
 				"foreground": "#ce9178"
 			}
 		},
+		{
+			"scope": [
+				"storage.modifier",
+				"keyword.operator.noexcept"
+			],
+			"settings": {
+				"foreground": "#569cd6"
+			}
+		},
+		{
+			"name": "this.self",
+			"scope": "variable.language",
+			"settings": {
+				"foreground": "#569cd6"
+			}
+		},
 	],
 	"semanticTokenColors": {
 		"newOperator":"#C586C0",
 		"stringLiteral":"#ce9178",
 		"customLiteral": "#DCDCAA",
 		"numberLiteral": "#b5cea8",
-	}
+	},
 }
