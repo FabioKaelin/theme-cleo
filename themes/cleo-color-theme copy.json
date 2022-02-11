@@ -53,14 +53,6 @@
         "terminal.ansiBrightWhite": "#ffffff"
     },
 	"tokenColors": [
-
-		{
-			"scope": "comment",
-			"settings": {
-				"foreground": "#6A9955",
-				"fontStyle": "italic"
-			}
-		},
 		{
 			"name": "Function declarations",
 			"scope": [
@@ -68,57 +60,18 @@
 				"support.function",
 				"support.constant.handlebars",
 				"source.powershell variable.other.member",
-				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
+				"entity.name.operator.custom-literal"
 			],
 			"settings": {
 				"foreground": "#DCDCAA"
 			}
 		},
 		{
-			"name": "Test",
-			"scope": [
-				""
-			],
-			"settings": {
-				"foreground": "#5ddb5d",//9CDCFE
-			}
-		},
-
-		{
-			"name": "Numeric",
-			"scope": [
-				"constant.numeric"
-
-			],
-			"settings": {
-				"foreground": "#5ddb5d",//9CDCFE
-			}
-		},
-
-		{
-			"name": "methods",
-			"scope": [
-				"support.function",
-				"meta.function-call"
-			],
-			"settings": {
-				"foreground": "#DCDCAA",//9CDCFE
-			}
-		},
-		{
-			"name": "Json Key",
-			"scope": [
-				"support.type",
-			],
-			"settings": {
-				"foreground": "#9CDCFE",//9CDCFE
-			}
-		},
-		{
 			"name": "Types declaration and references",
 			"scope": [
-				"support.class",
 				"meta.return-type",
+				"support.class",
+				"support.type",
 				"entity.name.type",
 				"entity.name.namespace",
 				"entity.other.attribute",
@@ -152,6 +105,7 @@
 			],
 			"settings": {
 				"foreground": "#4EC9B0"
+
 			}
 		},
 		{
@@ -189,10 +143,10 @@
 				"meta.definition.variable.name",
 				"support.variable",
 				"entity.name.variable",
-				"constant.other.placeholder",
+				"constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ce9178"
 			}
 		},
 		{
@@ -202,7 +156,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#4FC1FF",
+				"foreground": "#4FC1FF"
 			}
 		},
 		{
@@ -256,6 +210,13 @@
 			}
 		},
 		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#6A9955",
+                "fontStyle": "italic"
+			}
+		},
+		{
 			"scope": [
 				"keyword.operator.or.regexp",
 				"keyword.control.anchor.regexp"
@@ -289,18 +250,6 @@
 			}
 		},
 		{
-			"scope": "markup.inline.raw",
-			"settings": {
-				"foreground": "#ce9178"
-			}
-		},
-		{
-			"scope": "meta.preprocessor.string",
-			"settings": {
-				"foreground": "#ce9178"
-			}
-		},
-		{
 			"scope": [
 				"string",
 				"meta.embedded.assembly"
@@ -308,24 +257,12 @@
 			"settings": {
 				"foreground": "#ce9178"
 			}
-		},
-		{
-			"scope": "string.tag",
-			"settings": {
-				"foreground": "#ce9178"
-			}
-		},
-		{
-			"scope": "string.value",
-			"settings": {
-				"foreground": "#ce9178"
-			}
-		},
+		}
 	],
 	"semanticTokenColors": {
 		"newOperator":"#C586C0",
 		"stringLiteral":"#ce9178",
 		"customLiteral": "#DCDCAA",
-		"numberLiteral": "#b5cea8",
+		"numberLiteral": "#b5cea8"
 	}
 }
