@@ -16,6 +16,7 @@
 				"foreground": "#DCDCAA"
 			}
 		},
+
 		{
 			"name": "Types declaration and references",
 			"scope": [

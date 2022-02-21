@@ -244,19 +244,19 @@
 				"foreground": "#C586C0"
 			}
 		},
-		{
-			"name": "Variable and parameter name",
-			"scope": [
-				"variable",
-				"support.variable",
-				"entity.name.variable",
-				"meta.definition.variable.name",
-				"constant.other.placeholder",
-			],
-			"settings": {
-				"foreground": "#9CDCFE"
-			}
-		},
+		// {
+		// 	"name": "Variable and parameter name",
+		// 	"scope": [
+		// 		"variable",
+		// 		"support.variable",
+		// 		"entity.name.variable",
+		// 		"meta.definition.variable.name",
+		// 		"constant.other.placeholder",
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#9CDCFE"
+		// 	}
+		// },
 
 		{
 			"scope": "meta.diff.header",
@@ -286,15 +286,15 @@
 				"foreground": "#4FC1FF",
 			}
 		},
-		{
-			"name": "Object keys, TS grammar specific",
-			"scope": [
-				// "meta.object-literal.key"
-			],
-			"settings": {
-				"foreground": "#9CDCFE"
-			}
-		},
+		// {
+		// 	"name": "Object keys, TS grammar specific",
+		// 	"scope": [
+		// 		"meta.object-literal.key"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#9CDCFE"
+		// 	}
+		// },
 		{
 			"name": "CSS property value",
 			"scope": [
