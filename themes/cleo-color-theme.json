@@ -50,7 +50,7 @@
         "terminal.ansiBrightBlue": "#80baff",
         "terminal.ansiBrightMagenta": "#d778ff",
         "terminal.ansiBrightCyan": "#78ffff",
-        "terminal.ansiBrightWhite": "#ffffff"
+        "terminal.ansiBrightWhite": "#ffffff",
     },
 	"tokenColors": [
 
@@ -74,15 +74,15 @@
 				"foreground": "#DCDCAA"
 			}
 		},
-		{
-			"name": "Test",
-			"scope": [
-				"entity.name.namespace",
-			],
-			"settings": {
-				"foreground": "#ff0000",
-			}
-		},
+		// {
+		// 	"name": "Test",
+		// 	"scope": [
+		// 		"entity.name.namespace",
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#ff0000",
+		// 	}
+		// },
 
 		{
 			"name": "Operator",
@@ -105,6 +105,28 @@
 			}
 		},
 
+
+		{
+			"name": "Python - Your description",
+			"scope": [
+				"entity.name.namespace"
+			],
+			"settings": {
+				"foreground": "#09ff00",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Python - Your description",
+			"scope": [
+				"meta.attribute.python"
+			],
+			"settings": {
+				"foreground": "#0000ff",
+				"fontStyle": "italic"
+			}
+		},
+
 		{
 			"name": "methods",
 			"scope": [
@@ -115,15 +137,15 @@
 				"foreground": "#DCDCAA",
 			}
 		},
-		{
-			"name": "Json Key",
-			"scope": [
-				"support.type",
-			],
-			"settings": {
-				"foreground": "#ff0000",//9CDCFE
-			}
-		},
+		// {
+		// 	"name": "Json Key",
+		// 	"scope": [
+		// 		""
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#ff0000",//9CDCFE
+		// 	}
+		// },
 		{
 			"name": "Types declaration and references",
 			"scope": [

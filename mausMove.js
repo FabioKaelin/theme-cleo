@@ -22,7 +22,7 @@
 var mauss = document.getElementsByClassName("maus")
 let mausNumber = 0
 let mausXArray = []
-
+const hallo = "fabio"
 function movemaus(mausX, Currentmaus, mauss) {
     mauss[Currentmaus].style.left = mausX
     if((mausX < 10 && mausX > 2) && (catY < 10)){
