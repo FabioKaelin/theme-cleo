@@ -10,6 +10,7 @@
         "editor.selectionBackground": "#3c84b483",
         "editor.inactiveSelectionBackground": "#29648b83",
         "dropdown.listBackground": "#001733",
+        "editorBracketMatch.background": "#1a7e75",
 
 
         "symbolIcon.moduleForeground": "#00eeff",

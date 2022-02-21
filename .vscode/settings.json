@@ -14,6 +14,8 @@
         "gitDecoration.deletedResourceForeground": "#ffbb00",
         "gitDecoration.ignoredResourceForeground": "#5d669e",
         "gitDecoration.modifiedResourceForeground": "#2da70f",
+        "editorBracketMatch.background": "#1a7e75",
+
 
         "statusBar.foreground": "#e7e7e7",
         "editorLineNumber.foreground": "#4144ff",
