@@ -12,12 +12,15 @@
         "dropdown.listBackground": "#001733",
         "editorBracketMatch.background": "#1a7e75",
 
-
         "symbolIcon.moduleForeground": "#00eeff",
         "gitDecoration.untrackedResourceForeground": "#b61a1a",
         "gitDecoration.deletedResourceForeground": "#ffbb00",
         "gitDecoration.ignoredResourceForeground": "#5d669e",
         "gitDecoration.modifiedResourceForeground": "#2da70f",
+
+        "editorBracketHighlight.foreground1": "#ff0000",
+        "editorBracketPairGuide.activeBackground1": "#ff0000",
+		"editorBracketPairGuide.background1": "#ff0000",
 
 
         "statusBar.noFolderBackground": "#001126",
@@ -66,6 +69,25 @@
 			"settings": {
 				"foreground": "#6A9955",
 				"fontStyle": "italic"
+			}
+		},
+
+
+		{
+			"scope": [
+				"punctuation.support.type.property-name.end.json",
+				"support.type.property-name.json",
+				"string.json",
+				"meta.structure.dictionary.json",
+				"meta.structure.dictionary.value.json",
+				"meta.structure.dictionary.json",
+				"meta.structure.array.json",
+				"meta.structure.dictionary.value.json",
+				"meta.structure.dictionary.json",
+				"source.json",
+			],
+			"settings": {
+				"foreground": "#4EC9B0",
 			}
 		},
 		{
@@ -267,7 +289,7 @@
 		{
 			"name": "Object keys, TS grammar specific",
 			"scope": [
-				"meta.object-literal.key"
+				// "meta.object-literal.key"
 			],
 			"settings": {
 				"foreground": "#9CDCFE"
@@ -383,7 +405,34 @@
 		{
 			"scope": [
 				"storage.modifier",
-				"keyword.operator.noexcept"
+				"keyword.operator.noexcept",
+                "entity.name.tag",
+                "constant.character",
+                "markup.changed",
+				"meta.preprocessor",
+				"entity.name.function.preprocessor",
+                "meta.diff.header",
+                "constant.language",
+				"storage.modifier",
+				"keyword.operator.noexcept",
+				"punctuation.definition.template-expression.begin",
+				"punctuation.definition.template-expression.end",
+				"punctuation.section.embedded",
+                "keyword.control",
+                "keyword",
+				"punctuation.section.embedded.begin.php",
+				"punctuation.section.embedded.end.php",
+                "variable.language",
+				"keyword.operator.new",
+				"keyword.operator.expression",
+				"keyword.operator.cast",
+				"keyword.operator.sizeof",
+				"keyword.operator.alignof",
+				"keyword.operator.typeid",
+				"keyword.operator.alignas",
+				"keyword.operator.instanceof",
+				"keyword.operator.logical.python",
+				"keyword.operator.wordlike",
 			],
 			"settings": {
 				"foreground": "#569cd6"
@@ -403,4 +452,5 @@
 		"customLiteral": "#DCDCAA",
 		"numberLiteral": "#b5cea8",
 	},
+	"semanticHighlighting": true,
 }
