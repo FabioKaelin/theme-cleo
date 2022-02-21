@@ -13,6 +13,10 @@
 
 
         "symbolIcon.moduleForeground": "#00eeff",
+        "gitDecoration.untrackedResourceForeground": "#b61a1a",
+        "gitDecoration.deletedResourceForeground": "#ffbb00",
+        "gitDecoration.ignoredResourceForeground": "#5d669e",
+        "gitDecoration.modifiedResourceForeground": "#2da70f",
 
 
         "statusBar.noFolderBackground": "#001126",

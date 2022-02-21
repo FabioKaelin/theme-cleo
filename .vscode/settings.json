@@ -10,9 +10,10 @@
         "statusBar.background": "#020088",
         "statusBarItem.hoverBackground": "#0400ff",
         "symbolIcon.moduleForeground": "#00eeff",
-        "gitDecoration.untrackedResourceForeground": "#247414",
-        "gitDecoration.deletedResourceForeground": "#ff0000",
-        "gitDecoration.ignoredResourceForeground": "#2a3369",
+        "gitDecoration.untrackedResourceForeground": "#b61a1a",
+        "gitDecoration.deletedResourceForeground": "#ffbb00",
+        "gitDecoration.ignoredResourceForeground": "#5d669e",
+        "gitDecoration.modifiedResourceForeground": "#2da70f",
 
         "statusBar.foreground": "#e7e7e7",
         "editorLineNumber.foreground": "#4144ff",
