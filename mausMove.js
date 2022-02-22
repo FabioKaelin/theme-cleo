@@ -15,10 +15,6 @@
 
 
 
-
-
-
-
 var mauss = document.getElementsByClassName("maus")
 let mausNumber = 0
 let mausXArray = []
