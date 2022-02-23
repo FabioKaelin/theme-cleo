@@ -1,0 +1,101 @@
+{
+	"iconDefinitions": {
+		// "_root_folder_dark": {
+		// 	"iconPath": "./images/root-folder-dark.svg"
+		// },
+		// "_root_folder_open_dark": {
+		// 	"iconPath": "./images/root-folder-open-dark.svg"
+		// },
+		// "_folder_dark": {
+		// 	"iconPath": "./images/folder-dark.svg"
+		// },
+		// "_folder_open_dark": {
+		// 	"iconPath": "./images/folder-open-dark.svg"
+		// },
+		// "_file_dark": {
+		// 	"iconPath": "./images/document-dark.svg"
+		// },
+		// "_root_folder": {
+		// 	"iconPath": "./images/root-folder-light.svg"
+		// },
+		// "_root_folder_open": {
+		// 	"iconPath": "./images/root-folder-open-light.svg"
+		// },
+		// "_folder_light": {
+		// 	"iconPath": "./images/folder-light.svg"
+		// },
+		// "_folder_open_light": {
+		// 	"iconPath": "./images/folder-open-light.svg"
+		// },
+		// "_file_light": {
+		// 	"iconPath": "./images/document-light.svg"
+		// },
+		"_file_php": {
+			"iconPath": "./images/php.png"
+		},
+		"_root_folder":{
+			"iconPath": "./images/rootfolder.png"
+		},
+		"_folder":{
+			"iconPath": "./images/closefolder.png"
+		},
+		"_info":{
+			"iconPath": "./images/info.png"
+		},
+		"_folderOpen":{
+			"iconPath": "./images/ordner.png"
+		},
+		"_file":{
+			"iconPath": "./images/file.png"
+		},
+		"_git":{
+			"iconPath": "./images/git.png"
+		},
+		"_image":{
+			"iconPath": "./images/bild.png"
+		},
+		"_image_folder":{
+			"iconPath": "./images/imagefolder.png"
+		},
+		"_cleo":{
+			"iconPath": "./images/cleo.png"
+		}
+	},
+	"folderExpanded": "_folderOpen",
+	"folder": "_folder",
+	"file": "_file",
+	"rootFolderExpanded": "_root_folder",
+	"rootFolder": "_root_folder",
+	"folderNames": {
+		"image": "_image_folder",
+		"images": "_image_folder",
+	},
+
+	"fileExtensions": {
+        "php": "_file_php",
+        "png": "_image",
+        "jpg": "_image",
+        "jpeg": "_image",
+        "cleo": "_cleo"
+		// icons by file extension
+	},
+	"fileNames": {
+		"readme.md": "_info",
+		".gitignore": "_git",
+		"cleo": "_cleo",
+
+		// icons by file name
+	},
+	// "languageIds": {
+	// 	// icons by language id
+	// },
+	// "light": {
+	// 	"folderExpanded": "_folder_open_light",
+	// 	"folder": "_folder_light",
+	// 	"rootFolderExpanded": "_root_folder_open",
+	// 	"rootFolder": "_root_folder",
+	// 	"file": "_file_light",
+	// 	"languageIds": {
+	// 		// icons by language id
+	// 	}
+}

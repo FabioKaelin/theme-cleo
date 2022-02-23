@@ -12,8 +12,8 @@
         "iconThemes": [
             {
                 "id": "Cleo-Icon",
-                "label": "Cleo-Icon-Label",
-                "path": "./fileicons/Cleo-icon-theme.json"
+                "label": "cleo-Icon",
+                "path": "./fileicons/cleo-icon-theme.json"
             }
         ],
         "themes": [
