@@ -9,6 +9,13 @@
         "vscode": "*"
     },
     "contributes": {
+        "iconThemes": [
+            {
+                "id": "Cleo-Icon",
+                "label": "Cleo-Icon-Label",
+                "path": "./fileicons/Cleo-icon-theme.json"
+            }
+        ],
         "themes": [
             {
                 "id": "Cleo",

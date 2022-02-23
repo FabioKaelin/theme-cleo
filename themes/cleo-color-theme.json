@@ -13,13 +13,12 @@
         "editorBracketMatch.background": "#1a7e75",
 
         "symbolIcon.moduleForeground": "#00eeff",
-        "gitDecoration.untrackedResourceForeground": "#b61a1a",
-        "gitDecoration.deletedResourceForeground": "#ffbb00",
+        "gitDecoration.untrackedResourceForeground": "#f19710",
+        "gitDecoration.deletedResourceForeground": "#bd338f",
         "gitDecoration.ignoredResourceForeground": "#5d669e",
         "gitDecoration.modifiedResourceForeground": "#2da70f",
 		"gitDecoration.renamedResourceForeground": "#ffe600",
 		"gitDecoration.stageModifiedResourceForeground": "#00eeff",
-
 
 		"editorBracketHighlight.foreground1": "#9d4dd3",
         "editorBracketPairGuide.activeBackground1": "#9d4dd3",
@@ -134,7 +133,7 @@
 				"keyword.operator"
 			],
 			"settings": {
-				"foreground": "#D4D4D4",
+				"foreground": "#ffaaaa",
 			}
 		},
 
@@ -429,7 +428,6 @@
 				"meta.preprocessor",
 				"entity.name.function.preprocessor",
                 "meta.diff.header",
-                "constant.language",
 				"storage.modifier",
 				"keyword.operator.noexcept",
 				"punctuation.definition.template-expression.begin",
@@ -462,9 +460,35 @@
 				"foreground": "#569cd6"
 			}
 		},
+		{
+			"name": "New",
+			"scope":[
+				"keyword.other.new"
+			],
+			"settings": {
+				"foreground": "#aa37a4"
+			}
+		},
+		{
+			"scope":[
+				"punctuation.separator.array"
+			],
+			"settings": {
+				"foreground": "#00ff73",
+			}
+		},
+		{
+			"scope":[
+                "constant.language",
+			],
+			"settings": {
+				"foreground": "#ca9f11",
+				"fontStyle": "italic"
+			}
+		}
 	],
 	"semanticTokenColors": {
-		"newOperator":"#C586C0",
+		// "newOperator":"#C586C0",
 		"stringLiteral":"#ce9178",
 		"customLiteral": "#DCDCAA",
 		"numberLiteral": "#b5cea8",
