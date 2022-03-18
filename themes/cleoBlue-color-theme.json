@@ -1,0 +1,23 @@
+{
+	"name": "Cleo Blue",
+    "type": "Dark",
+	"include": "./cleo-color-theme.json",
+    "colors": {
+        "statusBar.background": "#020088",
+        "statusBarItem.hoverBackground": "#0400ff",
+        "editorLineNumber.foreground": "#4144ff",
+        "editorLineNumber.activeForeground": "#00ff2a",
+        "editor.selectionBackground": "#3c84b483",
+        "editor.inactiveSelectionBackground": "#29648b83",
+        "symbolIcon.moduleForeground": "#00eeff",
+        "focusBorder": "#bbdaff",
+        "activityBar.inactiveForeground": "#605fad",
+        "activityBarBadge.background": "#00ff00",
+        "activityBarBadge.foreground": "#0011ff",
+        "activityBar.activeBackground": "#020088",
+        "activityBar.foreground": "#3b90ff",
+        "editor.foreground": "#b6dde4",
+        "terminal.foreground": "#b6dde4",
+        "terminal.background": "#071d36",
+	}
+}
