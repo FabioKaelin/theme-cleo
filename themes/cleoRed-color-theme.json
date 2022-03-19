@@ -50,5 +50,8 @@
         "editorSuggestWidget.focusHighlightForeground": "#ff0000",
         "editorSuggestWidget.selectedIconForeground": "#9e1818",
         "editorHoverWidget.background": "#180b0b",
+
+        "sideBar.foreground": "#ff8282"
+
 	}
 }

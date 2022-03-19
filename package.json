@@ -12,7 +12,7 @@
         "iconThemes": [
 			{
 				"id": "material-icon-theme",
-				"label": "Material Icon Theme 2.0",
+				"label": "Cleo Icon Theme",
 				"path": "./dist/material-icons.json",
 				"_watch": true
 			}

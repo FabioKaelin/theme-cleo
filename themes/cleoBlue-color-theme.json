@@ -45,27 +45,19 @@
 
         "input.background": "#191730",
 
-        "list.activeSelectionBackground": "#1a1358",
         "list.inactiveSelectionBackground": "#34335f",
+        "list.activeSelectionBackground": "#1a1358",
         "list.activeSelectionForeground": "#8284ff",
 
 
         "editorWidget.background": "#111425",
-        "editorWidget.foreground": "#3a3091",
+        "editorWidget.foreground": "#8284ff",
         "editorSuggestWidget.highlightForeground": "#3735bd",
-        "editorSuggestWidget.focusHighlightForeground": "#3735bd",
+        "editorSuggestWidget.focusHighlightForeground": "#0400ff",
         "editorSuggestWidget.selectedIconForeground": "#8284ff",
         "editorHoverWidget.background": "#0b0c18",
 
-
         "sideBar.foreground": "#8284ff"
-
-
-
-
-
-
-
 
     }
 }
