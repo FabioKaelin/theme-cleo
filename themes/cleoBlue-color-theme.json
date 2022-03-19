@@ -10,6 +10,7 @@
         "editorLineNumber.activeForeground": "#00ff2a",
 
         "editor.selectionBackground": "#3c84b483",
+
         "editor.inactiveSelectionBackground": "#29648b83",
         "editor.foreground": "#b6dde4",
         "editor.background": "#151527",
@@ -51,10 +52,11 @@
 
         "editorWidget.background": "#111425",
         "editorWidget.foreground": "#3a3091",
-        "editorSuggestWidget.highlightForeground": "#37368b",
-        "editorSuggestWidget.focusHighlightForeground": "#37368b",
+        "editorSuggestWidget.highlightForeground": "#3735bd",
+        "editorSuggestWidget.focusHighlightForeground": "#3735bd",
         "editorSuggestWidget.selectedIconForeground": "#8284ff",
         "editorHoverWidget.background": "#0b0c18",
+
 
         "sideBar.foreground": "#8284ff"
 

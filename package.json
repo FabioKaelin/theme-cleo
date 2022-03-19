@@ -9,6 +9,15 @@
         "vscode": "*"
     },
     "contributes": {
+        "iconThemes": [
+			{
+				"id": "material-icon-theme",
+				"label": "Material Icon Theme 2.0",
+				"path": "./dist/material-icons.json",
+				"_watch": true
+			}
+		],
+
         "themes": [
             {
                 "id": "cleo blue",
