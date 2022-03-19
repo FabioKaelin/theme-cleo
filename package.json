@@ -1,30 +1,48 @@
 {
-    "name": "theme-cleo",
+    "name": "theme-1",
     "displayName": "%displayName%",
     "description": "%description%",
     "version": "1.0.0",
-    "publisher": "vscode",
+    "publisher": "fabio",
     "license": "MIT",
     "engines": {
         "vscode": "*"
     },
     "contributes": {
-        "iconThemes": [
-            {
-                "id": "Cleo-Icon",
-                "label": "cleo-Icon",
-                "path": "./fileicons/cleo-icon-theme.json"
-            }
-        ],
         "themes": [
             {
-                "id": "Cleo",
-                "label": "%themeLabel%",
+                "id": "cleo blue",
+                "label": "-Cleo Blue",
                 "uiTheme": "vs-dark",
-                "path": "./themes/cleo-color-theme.json"
+                "path": "./themes/cleoBlue-color-theme.json"
+            },
+            {
+                "id": "cleo default",
+                "label": "--Cleo Default",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cleoDefault-color-theme.json"
+            },
+            {
+                "id": "cleo green",
+                "label": "-Cleo Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cleoGreen-color-theme.json"
+            },
+            {
+                "id": "cleo red",
+                "label": "-Cleo Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cleoRed-color-theme.json"
             }
         ]
     },
+	"icon": "cleo.png",
+	"keywords": [
+		"theme",
+		"blue",
+        "green",
+		"cleo"
+	],
     "repository": {
         "type": "git",
         "url": "https://github.com/FabioKaelin/theme-cleo.git"

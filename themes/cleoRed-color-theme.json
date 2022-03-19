@@ -1,23 +1,54 @@
 {
-	"name": "Cleo Red",
+	"name": "_Cleo Red",
     "type": "Dark",
 	"include": "./cleo-color-theme.json",
     "colors": {
         "statusBar.background": "#880000",
         "statusBarItem.hoverBackground": "#ff0000",
+
         "editorLineNumber.foreground": "#ff4141",
         "editorLineNumber.activeForeground": "#00ff2a",
+
         "editor.selectionBackground": "#b43c3c83",
         "editor.inactiveSelectionBackground": "#8b292983",
+        "editor.foreground": "#e4b6b6",
+        "editor.background": "#160d0d",
+
         "symbolIcon.moduleForeground": "#ff0000",
         "focusBorder": "#ffbbbb",
-        "activityBar.inactiveForeground": "#ad5f5f",
+
         "activityBarBadge.background": "#2bff00",
         "activityBarBadge.foreground": "#ff0000",
+        "activityBar.inactiveForeground": "#ad5f5f",
         "activityBar.activeBackground": "#880000",
+        "activityBar.background": "#290000",
         "activityBar.foreground": "#ff3b3b",
-        "editor.foreground": "#e4b6b6",
+
         "terminal.foreground": "#e4b6b6",
         "terminal.background": "#360707",
+
+        "sideBar.background": "#110808",
+
+        "titleBar.activeBackground": "#3d1a1a",
+        "titleBar.inactiveBackground": "#1d0e0e",
+
+
+        "editorGroupHeader.tabsBackground": "#1d0e0e",
+        "tab.activeBackground": "#5e1414",
+        "tab.inactiveBackground": "#301717",
+
+
+        "input.background": "#301717",
+
+        "list.activeSelectionBackground": "#490707",
+        "list.inactiveSelectionBackground": "#5f3333",
+        "list.activeSelectionForeground": "#ad1d1d",
+
+        "editorWidget.background": "#1b0e0e",
+        "editorWidget.foreground": "#771414",
+        "editorSuggestWidget.highlightForeground": "#ff0000",
+        "editorSuggestWidget.focusHighlightForeground": "#ff0000",
+        "editorSuggestWidget.selectedIconForeground": "#9e1818",
+        "editorHoverWidget.background": "#180b0b",
 	}
 }

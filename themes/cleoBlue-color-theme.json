@@ -1,23 +1,69 @@
 {
-	"name": "Cleo Blue",
+	"name": "_Cleo Blue",
     "type": "Dark",
 	"include": "./cleo-color-theme.json",
     "colors": {
         "statusBar.background": "#020088",
         "statusBarItem.hoverBackground": "#0400ff",
+
         "editorLineNumber.foreground": "#4144ff",
         "editorLineNumber.activeForeground": "#00ff2a",
+
         "editor.selectionBackground": "#3c84b483",
         "editor.inactiveSelectionBackground": "#29648b83",
+        "editor.foreground": "#b6dde4",
+        "editor.background": "#151527",
+
         "symbolIcon.moduleForeground": "#00eeff",
         "focusBorder": "#bbdaff",
-        "activityBar.inactiveForeground": "#605fad",
+
         "activityBarBadge.background": "#00ff00",
         "activityBarBadge.foreground": "#0011ff",
+        "activityBar.inactiveForeground": "#605fad",
         "activityBar.activeBackground": "#020088",
         "activityBar.foreground": "#3b90ff",
-        "editor.foreground": "#b6dde4",
+        "activityBar.background": "#11101d",
+
         "terminal.foreground": "#b6dde4",
         "terminal.background": "#071d36",
-	}
+
+        "sideBar.background": "#080811",
+
+
+
+
+        "titleBar.activeBackground": "#1b1a3d",
+        "titleBar.inactiveBackground": "#0f0e1d",
+
+
+        "editorGroupHeader.tabsBackground": "#100e1d",
+        "tab.activeBackground": "#14155e",
+        "tab.inactiveBackground": "#191730",
+
+
+
+        "input.background": "#191730",
+
+        "list.activeSelectionBackground": "#1a1358",
+        "list.inactiveSelectionBackground": "#34335f",
+        "list.activeSelectionForeground": "#8284ff",
+
+
+        "editorWidget.background": "#111425",
+        "editorWidget.foreground": "#3a3091",
+        "editorSuggestWidget.highlightForeground": "#37368b",
+        "editorSuggestWidget.focusHighlightForeground": "#37368b",
+        "editorSuggestWidget.selectedIconForeground": "#8284ff",
+        "editorHoverWidget.background": "#0b0c18",
+
+        "sideBar.foreground": "#8284ff"
+
+
+
+
+
+
+
+
+    }
 }
