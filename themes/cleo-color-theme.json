@@ -32,16 +32,9 @@
 		"editorBracketPairGuide.background4": "#36c956",
 
 
-        "statusBar.noFolderBackground": "#001126",
-        "statusBar.debuggingBackground": "#001126",
-        "errorForeground": "#a92049",
-        "banner.background": "#071d36",
-        "menu.background": "#071d36",
 
-        "input.background": "#001733",
-        "dropdown.background": "#001733",
-        "activityBar.background": "#333333",
-        "editor.background": "#1e1e20",
+
+        "errorForeground": "#a92049",
 		"editor.findMatchBackground": "#ca1d1db2",
 		"editor.findMatchHighlightBackground": "#bb9c11ad",
 
@@ -495,7 +488,7 @@
 				"meta.definition.variable.name",
 				"meta.block",
 				"source.js",
-				// "variable.other",
+				"variable.other",
 				// "constant.other.placeholder",
 			],
 			"settings": {
@@ -505,6 +498,8 @@
 	],
 	"semanticTokenColors": {
 		// "newOperator":"#C586C0",
+		"variable": "#9CDCFE",
+
 		"stringLiteral":"#ce9178",
 		"customLiteral": "#DCDCAA",
 		"numberLiteral": "#b5cea8",

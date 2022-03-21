@@ -29,6 +29,13 @@
 
         "sideBar.background": "#110808",
 
+        "statusBar.noFolderBackground": "#260000",
+        "statusBar.debuggingBackground": "#260000",
+        "banner.background": "#360707",
+        "menu.background": "#360707",
+        "dropdown.background": "#330000",
+
+
         "titleBar.activeBackground": "#3d1a1a",
         "titleBar.inactiveBackground": "#1d0e0e",
 
@@ -46,10 +53,18 @@
 
         "editorWidget.background": "#1b0e0e",
         "editorWidget.foreground": "#771414",
+
         "editorSuggestWidget.highlightForeground": "#ff0000",
         "editorSuggestWidget.focusHighlightForeground": "#ff0000",
         "editorSuggestWidget.selectedIconForeground": "#9e1818",
+
         "editorHoverWidget.background": "#180b0b",
+        "editorHoverWidget.statusBarBackground": "#381919",
+
+        "settings.rowHoverBackground": "#5f3333",
+        "toolbar.hoverBackground": "#5f3333",
+        "button.background": "#5f3333",
+        "list.hoverBackground": "#461111",
 
         "sideBar.foreground": "#ff8282"
 

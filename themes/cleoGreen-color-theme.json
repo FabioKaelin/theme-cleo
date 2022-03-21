@@ -29,7 +29,11 @@
 
         "sideBar.background": "#08110a",
 
-
+        "statusBar.noFolderBackground": "#032600",
+        "statusBar.debuggingBackground": "#092600",
+        "banner.background": "#07360d",
+        "menu.background": "#093607",
+        "dropdown.background": "#023300",
 
         "titleBar.activeBackground": "#1a3d20",
         "titleBar.inactiveBackground": "#0e1d11",
@@ -39,6 +43,8 @@
         "tab.activeBackground": "#145e18",
         "tab.inactiveBackground": "#193017",
 
+
+
         "input.background": "#193017",
 
         "list.activeSelectionBackground": "#094907",
@@ -47,10 +53,25 @@
 
         "editorWidget.background": "#0f1b0e",
         "editorWidget.foreground": "#1e7714",
+
         "editorSuggestWidget.highlightForeground": "#15ff00",
         "editorSuggestWidget.focusHighlightForeground": "#15ff00",
         "editorSuggestWidget.selectedIconForeground": "#259e18",
-        "editorHoverWidget.background": "#0d180b",
+
+        "editorHoverWidget.background": "#0d180b",//0d180b
+        "editorHoverWidget.statusBarBackground": "#1d3819",
+
+        "settings.rowHoverBackground": "#355f33",
+        "toolbar.hoverBackground": "#355f33",
+        "button.background": "#355f33",
+        "list.hoverBackground": "#144611",
+
+
+        "scrollbar.shadow": "#00ff00",
+        "scrollbarSlider.background": "#3f5f297e",
+        "scrollbarSlider.activeBackground": "#5aad2275",
+        "scrollbarSlider.hoverBackground": "#4b86247e",
+
 
 
         "sideBar.foreground": "#82ff97"

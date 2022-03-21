@@ -2162,6 +2162,9 @@
     },
     "folder-root-open": {
       "iconPath": "./../icons/folder-root-open~-332412013.svg"
+    },
+    "cleo":{
+      "iconPath": "./../fileicons/images/cleo.png"
     }
   },
   "folderNames": {
@@ -3200,9 +3203,11 @@
     "java": "folder-java-open",
     "resolver": "folder-resolver-open",
     "resolvers": "folder-resolver-open",
-    ".angular": "folder-angular-open"
+    ".angular": "folder-angular-open",
+    "cleo": "cleo"
   },
   "fileExtensions": {
+    "cleo": "cleo",
     "htm": "html",
     "xhtml": "html",
     "html_vm": "html",
@@ -3884,6 +3889,7 @@
     "gleam": "gleam"
   },
   "fileNames": {
+    "cleo": "cleo",
     ".pug-lintrc": "pug",
     ".pug-lintrc.js": "pug",
     ".pug-lintrc.json": "pug",
