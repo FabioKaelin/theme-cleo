@@ -61,6 +61,12 @@
         ],
         "themes": [
             {
+                "id": "all dark",
+                "label": "--Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/alldark-color-theme.json"
+            },
+            {
                 "id": "cleo blue",
                 "label": "-Cleo Blue",
                 "uiTheme": "vs-dark",
