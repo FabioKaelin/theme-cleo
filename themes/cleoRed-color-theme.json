@@ -36,8 +36,6 @@
         "dropdown.background": "#330000",
 
 
-        "titleBar.activeBackground": "#3d1a1a",
-        "titleBar.inactiveBackground": "#1d0e0e",
 
 
         "editorGroupHeader.tabsBackground": "#1d0e0e",
@@ -61,7 +59,6 @@
         "editorHoverWidget.background": "#180b0b",
         "editorHoverWidget.statusBarBackground": "#381919",
 
-        "settings.rowHoverBackground": "#5f3333",
         "toolbar.hoverBackground": "#5f3333",
         "button.background": "#5f3333",
         "list.hoverBackground": "#461111",
@@ -78,7 +75,56 @@
         "editor.lineHighlightBackground": "#3a1c1c",
 
 
-        "sideBar.foreground": "#ff8282"
+        "sideBar.foreground": "#ff8282",
+
+
+
+
+        "keybindingLabel.background": "#581919",
+        "keybindingLabel.foreground": "#a01111",
+        "keybindingLabel.border": "#6d1e1e",
+        "keybindingLabel.bottomBorder": "#3d1212",
+
+        "keybindingTable.headerBackground": "#3d1212",
+        "keybindingTable.rowsBackground": "#300e0e",
+        "icon.foreground": "#b40808",
+        "foreground": "#e4b6b6",
+
+        "widget.shadow": "#ff0000bd",
+        "toolbar.activeBackground": "#9c2d2d",
+
+        "settings.rowHoverBackground": "#381d1d",
+        "settings.checkboxForeground": "#ff0000",
+        "settings.checkboxBackground": "#641919",
+        "settings.dropdownForeground": "#ff0000",
+        "settings.dropdownBackground": "#641919",
+        "settings.textInputForeground": "#ff0000",
+        "settings.textInputBackground": "#641919",
+        "settings.numberInputForeground": "#ff0000",
+        "settings.numberInputBackground": "#641919",
+        "settings.headerForeground": "#ec6f6f",
+
+        "panelTitle.activeForeground": "#ce6464",
+        "panelTitle.inactiveForeground": "#e4b6b6",
+
+        "editorLink.activeForeground": "#920d0d",
+        "textLink.activeForeground": "#ff0000",
+        "textLink.foreground": "#dd0f0f",
+
+        "editorGutter.background": "#291616",
+
+        "sash.hoverBorder": "#ad1818",
+
+        "titleBar.activeBackground": "#3d1a1a",
+        "titleBar.inactiveBackground": "#1d0e0e",
+        "titleBar.activeForeground": "#b92e2e",
+        "titleBar.inactiveForeground": "#5f2323",
+
+        "dropdown.foreground": "#ff0000",
+        "dropdown.listBackground": "#641919",
+        "dropdown.border": "#751b1b",
+
+        "extensionIcon.starForeground": "#ff0000",
 
 	}
 }
