@@ -73,6 +73,10 @@
         "scrollbarSlider.hoverBackground": "#4b86247e",
 
 
+        "editor.lineHighlightBorder": "#2c5a2e",
+        "editor.lineHighlightBackground": "#1c3a1e",
+
+
 
         "sideBar.foreground": "#82ff97"
 

@@ -69,6 +69,18 @@
         "button.background": "#33375f",
         "list.hoverBackground": "#1b1146",
 
+
+
+
+        "scrollbar.shadow": "#0000ff",
+        "scrollbarSlider.background": "#292d5f7e",
+        "scrollbarSlider.activeBackground": "#2422ad75",
+        "scrollbarSlider.hoverBackground": "#3324867e",
+
+
+        "editor.lineHighlightBorder": "#2c375a",
+        "editor.lineHighlightBackground": "#1e1c3a",
+
         "sideBar.foreground": "#8284ff"
 
     }
